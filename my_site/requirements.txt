@@ -3,4 +3,5 @@ djangorestframework
 environs
 supabase
 python-dotenv
-psycopg2
+psycopg2-binary==2.9.11
+dj_database_url
